@@ -23,8 +23,8 @@
 - internet connection ;)
  
 ## Setup
-- Clone this project ```git clone https://github.com/nabin-nath/vaccine-finder.git```
-- cd to vaccine-finder
+- Clone this project ```git clone https://github.com/Abhinav4279/find-vaccine.git```
+- cd to find-vaccine
 - Install dependencies ```npm i```
 - Start the server ```npm start```
 
